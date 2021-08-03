@@ -10,7 +10,7 @@ RED=$(echo -en '\033[01;31m');
 
 if ! [ $(id -u) = 0 ]; then
    echo "${RED}The script need to be run as root${RESTORE}${GREEN} (Hint: Run with sudo).${RESTORE}" >&2;
-   exit 1;
+   exit 1; 
 fi;
 
 if [ $SUDO_USER ]; then
