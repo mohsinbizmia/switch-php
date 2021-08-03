@@ -1,5 +1,5 @@
 #!/bin/bash
-# Came from https://github.com/alirza143/switch-php
+# Came from https://github.com/alirza143/virtualhost-generator
 # @author: Ali Raza
 # @Email: ali.rza143@gmail.com
 
