@@ -8,7 +8,7 @@ This Bash script for users who work with multple PHP versions, make them easy to
 ```bash
 $ wget https://raw.githubusercontent.com/alirza143/switch-php/main/sphp.sh
 $ chmod +x ./sphp.sh
-$ sudo mv vhgen.sh /usr/local/bin/sphp
+$ sudo mv sphp.sh /usr/local/bin/sphp
 $ sudo sphp
 ```
 Sample output
