@@ -1,4 +1,4 @@
-# VirtualHost Generator
+# PHP Version Switcher
 
 This Bash script for users who work with multple PHP versions, make them easy to switch between different version (Ubuntu 16.04 LTS (Xenial Xerus) and Ubuntu 18.04 LTS (Bionic Beaver)).
 
