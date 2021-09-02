@@ -13,12 +13,11 @@ $ sudo sphp
 ```
 Sample output
 ```text
-
 0 : 7.2
 1 : 7.3
 2 : 7.4 (active)
 PHP Current Version in 7.4
-Enter the corresponding number to switch PHP version:
+Enter the corresponding number to switch PHP version: 2
 Switched to PHP 7.4, do you want to switch PHP version in the terminal also [y/N]:
 Ok, switched to 7.4
 ```
