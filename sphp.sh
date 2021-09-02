@@ -19,7 +19,7 @@ else
     real_user=$(whoami);
 fi;
 
-CHECK_TERMINAL_PHP_VERSION=`php -v|grep ^PHP|cut -d' ' -f2 2>&1`; 
+CHECK_TERMINAL_PHP_VERSION=`php -v|grep ^PHP|cut -d' ' -f2 2>&1`;
 PHP_CURRENT_VERSION=$(echo "$CHECK_TERMINAL_PHP_VERSION" | cut -c1-3);
 
 PHP_VERSIONS=('7.1' '7.2' '7.3' '7.4' '8.0');
